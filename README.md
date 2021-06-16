@@ -3,8 +3,8 @@ Boilerplat code to generate CSP compatible structs to communicate with parts tha
 
 
 -TO-Do:
-  -implement mission hardware specific code (commands via CSP)
-  -implement CANBUS an UART code for distributing CSP packets into CANFrames
-  -test code
-  -implement into prototype system
-  -implement into Kubos GraphQL services for data aggregation
+  1. implement mission hardware specific code (commands via CSP)
+  2. implement CANBUS an UART code for distributing CSP packets into CANFrames
+  3. test code
+  4. implement into prototype system
+  5. implement into Kubos GraphQL services for data aggregation

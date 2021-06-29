@@ -8,3 +8,7 @@ Boilerplat code to generate CSP compatible structs to communicate with parts tha
   3. test code
   4. implement into prototype system
   5. implement into Kubos GraphQL services for data aggregation
+
+
+OLD!!!!!!!!!!!!!!!!!!!!
+Using an existing rust CPS implementation crate
